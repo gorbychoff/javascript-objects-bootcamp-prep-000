@@ -1,5 +1,6 @@
 const playlist = {bob:'dylan'};
 
 function updatePlaylist(playlist, artistName, songTitle) {
-  playlist[]
+  playlist[artistname] = 'songTitle';
+  return playlist;
 }
